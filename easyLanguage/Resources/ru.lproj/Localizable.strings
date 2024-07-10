@@ -1,0 +1,123 @@
+/* 
+  Localizable.strings
+  easyLanguage
+
+  Created by Grigoriy on 21.12.2023.
+  
+*/
+//MARK: - Actions
+"cancel" = "Отмена";
+
+//MARK: - Catalog
+"wordsTitle" = "Слова";
+"wordTrainingTitle" = "Тренировка слов";
+"topFiveWordsTitle" = "5 последних неизученных слов";
+"сategoriesTitle" = "Категории";
+"topFiveWordsAdvice" = "Для перевода слова нажмите на карточку";
+"progressAdvice" = "Прогресс изученных слов";
+"sortTitle" = "Выберите в каком порядке отобразить категории";
+"sortRecentlyAdded" = "По недавно добавленным";
+"sortByName" = "По названию";
+"sortCancel" = "Вернуться";
+"categoryDelete" = "Удалить категорию";
+
+//MARK: - CategoryDetail
+"detailDelete" = "Удалить слово";
+"emptyCategoryAdvice" = "Нет слов в категории.\n Добавьте их по тапу на +";
+"CategoryDetailGoToStudy" = "Перейти к изучению";
+
+//MARK: - AddWord
+"addWord" = "Добавить слово";
+
+//MARK: - AddNewCategory
+"addPhotoAdvice" = "Добавить фото";
+"addCategoryButtonTitle" = "Добавить категорию";
+"categoryNamePlaceholder" = "Название категории";
+"categoryAlreadyExists" = "Категория с таким названием уже существует";
+"categoryAchivmentTitle" = "У вас новое достижение!";
+"categoryAchivmentBody" = "Нажмите чтобы перейти к ачивкам";
+
+//MARK: - Onboarding
+"gameplayLanguageLearningTitle" = "В игровой форме легко учить иностранные языки";
+"createCustomCategoriesTitle" = "Создавай любые категории и учи то, что нравится больше всего";
+"swipeBasedLanguageLearningTitle" = "Учи язык с помощью свайпов!";
+"nextButtonStartTitle" = "Начать";
+"nextButtonContinueTitle" = "Далее";
+
+//MARK: - Profile
+"profileTitle" = "Профиль";
+"labelUnderTextFields" = "Если хотите, добавьте фотографию для Вашего профиля";
+"themeTitle" = "Тема оформления";
+"lightThemeLabel" = "Светлая";
+"autoThemeLabel" = "Системная";
+"darkThemeLabel" = "Темная";
+"logOutFromAccount" = "Выйти из аккаунта";
+
+//MARK: - ProfileAlert
+"alertTitle" = "Выход из аккаунта";
+"alertQuestion" = "Вы уверены, что хотите выйти из аккаунта?";
+"alertCancel" = "Отменить";
+"alertExit" = "Выйти";
+
+//MARK: - Login+Registration
+"loginTitle" = "Войти";
+"registrationTitle" = "Регистрация";
+"registrationButtonTitle" = "Зарегистрироваться";
+"namePlaceholder" = "Имя";
+"emailPlaceholder" = "Электронная почта";
+"passwordPlaceholder" = "Пароль";
+
+//MARK: - LearningVC
+"descriptionText" = "Нажмите на карточку, чтобы увидеть перевод слова";
+"forgotTitle" = "Забыл";
+"rememberTitle" = "Помню";
+"emptyWordsLabel" = "Вы выучили все добавленные слова!";
+"continueLabel" = "Продолжить";
+
+//MARK: - AlertManager
+"alertButton" = "Назад";
+"invalidEmailTitle" = "Недействительный email";
+"invalidPasswordTitle" = "Недействительный пароль";
+"invalidNameTitle" = "Недействительный имя пользователя";
+"invalidMessage" = "Пожалуйста, проверьте введенные данные";
+"weakPassword" = "Слабый пароль";
+"emailAlreadyInUse" = "Эта почта уже используется";
+"registrationErrorAlert" = "Неизвестная ошибка при регистрации";
+"signInErrorAlert" = "Не удалось войти в аккаунт";
+"dataLoadErrorAlert" = "Не удалось загрузить данные";
+"addNewCategoryAlert" = "Ошибка добавления категории";
+"reloadHeightAlert" = "Ошибка обновления высоты";
+"wordDeleteAlert" = "Ошибка при удалении слова";
+"dataPostErrorAlert" = "Не удалось отправить данные";
+"wordAlreadyExistAlert" = "Это слово уже существует";
+
+//MARK: - StatisticView
+"wordsCategories" = "Количество слов в категориях";
+"wordRatio" = "Соотношение слов";
+"learned" = "Выучено";
+"process" = "В процессе";
+"totalWords" = "Всего слов";
+"statisticChartCategoryName" = "Название категории";
+"statisticWordCount" = "Количество слов";
+"emptyChart" = "Пусто!";
+
+//MARK: - AchievementStaticsBaseView
+"nameLabel" = "Имя";
+"achievementButton" = "Достижения";
+"statisticsButton" = "Статистика";
+"achievementStaticsTitle" = "Достижения";
+
+//MARK: - AchievementView
+"createOneCategoryLabel" = "Создай свою категорию";
+"createFiveCategoriesLabel" = "Создай 5 категорий";
+"learnTenWordsLabel" = "Изучи 10 слов";
+"learnOneHundredWordsLabel" = "Изучи 100 слов";
+"learnFiveHundredWordsLabel" = "Изучи 500 слов и поезжай в Англию";
+"createFiftyWordsInOneCategoryLabel" = "Добавь 50 слов в одну категорию";
+"learnOneCategoryLabel" = "Изучи полностью одну категорию";
+"learnThreeCategoriesLabel" = "Изучи полностью три категории";
+//Subtext
+"created" = "Создано";
+"learned" = "Изучено";
+"added" = "Добавлено";
+"explored" = "Изучено";

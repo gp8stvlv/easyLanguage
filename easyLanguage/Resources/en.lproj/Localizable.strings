@@ -1,0 +1,124 @@
+/* 
+  Localizable.strings
+  easyLanguage
+
+  Created by Grigoriy on 21.12.2023.
+*/
+//MARK: - Actions
+"cancel" = "Cancel";
+
+//MARK: - Catalog
+"wordsTitle" = "Words";
+"wordTrainingTitle" = "Word Training";
+"topFiveWordsTitle" = "5 last unlearned words";
+"сategoriesTitle" = "Categories";
+"topFiveWordsAdvice" = "To translate a word, click on the card";
+"progressAdvice" = "Progress of learned words";
+"sortTitle" = "Choose the order to display categories";
+"sortRecentlyAdded" = "By recently added";
+"sortByName" = "By name";
+"sortCancel" = "Cancel";
+"categoryDelete" = "Delete category";
+
+//MARK: - CategoryDetail
+"detailDelete" = "Delete word";
+"emptyCategoryAdvice" = "There are no words in the category.\nAdd them by tapping +";
+"CategoryDetailGoToStudy" = "Go to study";
+
+//MARK: - AddWord
+"addWord" = "Add word";
+
+//MARK: - AddNewCategory
+"addPhotoAdvice" = "Add Photo";
+"addCategoryButtonTitle" = "Add Category";
+"categoryNamePlaceholder" = "Category Name";
+"categoryAlreadyExists" = "Category with this name already exists";
+ "categoryAchivmentTitle" = "You have a new achievement!";
+ "categoryAchivmentBody" = "Click to go to achievements";
+
+//MARK: - Onboarding
+"gameplayLanguageLearningTitle" = "Learn foreign languages easily through gameplay";
+"createCustomCategoriesTitle" = "Create any categories and study what you like the most";
+"swipeBasedLanguageLearningTitle" = "Learn language with the help of swipes!";
+"nextButtonStartTitle" = "Start";
+"nextButtonContinueTitle" = "Next";
+
+//MARK: - Profile
+"profileTitle" = "Profile";
+"labelUnderTextFields" = "If desired, provide a page photo for your profile.";
+"themeTitle" = "Theme decoration";
+"lightThemeLabel" = "Light";
+"autoThemeLabel" = "System";
+"darkThemeLabel" = "Dark";
+"logOutFromAccount" = "Log out of your account";
+
+//MARK: - ProfileAlert
+"alertTitle" = "Logout";
+"alertQuestion" = "Are you sure you want to log out of your account?";
+"alertCancel" = "Cancel";
+"alertExit" = "Exit";
+
+//MARK: - Login+Registration
+"loginTitle" = "Log In";
+"registrationTitle" = "Sign Up";
+"registrationButtonTitle" = "Sign Up";
+"namePlaceholder" = "Name";
+"emailPlaceholder" = "Email";
+"passwordPlaceholder" = "Password";
+
+//MARK: - LearningVC
+"descriptionText" = "Click on the card to see the translation of the word";
+"forgotTitle" = "Forgot";
+"rememberTitle" = "Remember";
+"emptyWordsLabel" = "You have learned all the added words!";
+"continueLabel" = "Continue";
+
+//MARK: - AlertManager
+"alertButton" = "Back";
+"invalidEmailTitle" = "Invalid email";
+"invalidPasswordTitle" = "Invalid password";
+"invalidNameTitle" = "Invalid name";
+"invalidMessage" = "Please check the entered data";
+"weakPassword" = "weak password";
+"emailAlreadyInUse" = "This email is already in use";
+"registrationErrorAlert" = "Unknown error during registration";
+"signInErrorAlert" = "Failed to login";
+"dataLoadErrorAlert" = "Failed to load data";
+"addNewCategoryAlert" = "Error adding category";
+"reloadHeightAlert" = "Height update error";
+"wordDeleteAlert" = "Error when deleting a word";
+"dataPostErrorAlert" = "Failed to post data";
+"wordAlreadyExistAlert" = "This word already exists";
+
+//MARK: - StatisticView
+"wordsCategories" = "Number of words in the categories";
+"wordRatio" = "Word ratio";
+"learned" = "Learned";
+"process" = "In process";
+"totalWords" = "Total words";
+"statisticChartCategoryName" = "Category name";
+"statisticWordCount" = "Word count";
+"emptyChart" = "Empty!";
+
+//MARK: - AchievementStaticsBaseViewController
+"nameLabel" = "Name";
+"achievementButton" = "Achievements";
+"statisticsButton" = "Statistics";
+"achievementStaticsTitle" = "Achievements";
+
+//MARK: - AchievementView
+// Text
+"createOneCategoryLabel" = "Create your own category";
+"createFiveCategoriesLabel" = "Create 5 categories";
+"learnTenWordsLabel" = "Learn 10 words";
+"learnOneHundredWordsLabel" = "Learn 100 words";
+"learnFiveHundredWordsLabel" = "Learn 500 words and go to England";
+"createFiftyWordsInOneCategoryLabel" = "Add 50 words to one category";
+"learnOneCategoryLabel" = "Explore one category completely";
+"learnThreeCategoriesLabel" = "Explore three categories completely";
+//Subtext
+"created" = "Created";
+"learned" = "Learned";
+"added" = "Added";
+"explored" = "Explored";
+
